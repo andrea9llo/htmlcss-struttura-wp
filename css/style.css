@@ -62,6 +62,9 @@ li{
   margin: 1% 5%;
   padding: 2%;
 }
+#font{
+  font-size: 20px;
+}
 .terzacol{
   background: white;
   width: 15%;
@@ -69,4 +72,23 @@ li{
   border-radius: 1%;
   margin: 1% 0%;
   padding: 2%;
+}
+.margin{
+  margin: 50% 0%;
+}
+/* blocco footer */
+.footer{
+  width: 60%;
+  margin: auto;
+  margin-bottom: 1px;
+  background: white;
+  color: #777;
+  padding: 1%;
+  text-align: center;
+}
+.social{
+  width: 60%;
+  height: 100px;
+  margin: auto;
+  background: white;
 }
