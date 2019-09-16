@@ -37,3 +37,37 @@ li{
   display: inline-block;
   padding: 2%;
 }
+/* blocco principale */
+.bloccoprinc{
+  width: 60%;
+  margin: auto;
+}
+.bloccoprinc:after{
+  content: "";
+  display: table;
+  clear: both;
+}
+.primacol{
+  background: white;
+  width: 15%;
+  float: left;
+  border-radius: 1%;
+  margin: 1% 0%;
+  padding: 2%;
+}
+.secondacol{
+  background: white;
+  width: 60%;
+  float: left;
+  border-radius: 1%;
+  margin: 1% 5%;
+  padding: 2%;
+}
+.terzacol{
+background: white;
+width: 15%;
+float: left;
+border-radius: 1%;
+margin: 1% 0%;
+padding: 2%;
+}
