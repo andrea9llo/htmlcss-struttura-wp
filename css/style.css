@@ -5,21 +5,35 @@
   box-sizing: border-box;
 }
 body{
-  background: red;
+  background: #98876f;
   height: 100vh;
 }
 /* header */
 header{
-  background: white;
+  background: lightblue;
   position: relative;
   height: 25%;
   width: 60%;
   margin: auto;
   margin-top: 10px;
+  border: solid 3px white;
 }
 h1{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+/* blocco navbar */
+.navbar{
+  height: 5%;
+  width: 60%;
+  margin: auto;
+  background: grey;
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  padding: 2%;
 }
