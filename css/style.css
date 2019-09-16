@@ -26,7 +26,6 @@ h1{
 }
 /* blocco navbar */
 .navbar{
-  height: 5%;
   width: 60%;
   margin: auto;
   background: grey;
@@ -64,10 +63,10 @@ li{
   padding: 2%;
 }
 .terzacol{
-background: white;
-width: 15%;
-float: left;
-border-radius: 1%;
-margin: 1% 0%;
-padding: 2%;
+  background: white;
+  width: 15%;
+  float: left;
+  border-radius: 1%;
+  margin: 1% 0%;
+  padding: 2%;
 }
