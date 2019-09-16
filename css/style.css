@@ -85,10 +85,19 @@ li{
   color: #777;
   padding: 1%;
   text-align: center;
+  border-radius: 1%;
 }
 .social{
   width: 60%;
-  height: 80px;
   margin: auto;
   background: white;
+  margin-bottom: 2%;
+  border-radius: 1%;
+}
+i{
+
+  font-size: 25px;
+  margin: 3% 15%;
+  opacity: 0.3;
+
 }
