@@ -66,16 +66,17 @@ li{
   font-size: 20px;
 }
 .terzacol{
-  background: white;
   width: 15%;
   float: left;
-  border-radius: 1%;
   margin: 1% 0%;
+}
+.widget{
+  background: white;
+  margin-bottom: 20px;
   padding: 2%;
+  border-radius: 1%;
 }
-.margin{
-  margin: 50% 0%;
-}
+
 /* blocco footer */
 .footer{
   width: 60%;
